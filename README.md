@@ -8,15 +8,15 @@
 ![license](https://img.shields.io/badge/license-MIT-green)
 
 ## Overview
-
 This repository is dedicated to the design and implementation of the Test Pads with LEDs Expansion Module, an advanced diagnostic tool crafted to enhance the testing and debugging processes of electronic circuits. With its integration of 8 test pads linked to LED indicators and an additional LED for power status verification, this module stands as a critical asset for developers. It excels in facilitating the examination of signal integrity within FPGA configurations on SmartBoard connectors, especially useful in identifying potential line damage caused by the integration of improperly designed expansion modules. Moreover, its utility extends to the observation and testing of signal outputs from the FPGA to external analysis equipment, such as oscilloscopes or logic analyzers, making it invaluable for real-time signal monitoring during module communication interface testing.
 
 ## Key Features
-LED Indicators: Features 8 LEDs associated with test pads for immediate visual feedback on signal status, plus one additional LED to confirm power supply integrity.
-Dual Functionality:
-Enables the testing of signal paths on FPGA pads within SmartBoard connectors, aiding in the quick identification of any damaged lines due to faulty expansion module connections.
-Facilitates the external monitoring and testing of FPGA output signals, allowing for the rerouting of internal signals to this module for analysis with oscilloscopes or logic analyzers.
-Versatile Testing Capability: Specially designed for a broad spectrum of electronic testing and debugging scenarios, enhancing both prototype development and troubleshooting efforts.
+- **LED Indicators**: Features 8 LEDs associated with test pads for immediate visual feedback on signal status, plus one additional LED to confirm power supply integrity.
+- **Dual Functionality**:
+  - Enables the testing of signal paths on FPGA pads within SmartBoard connectors, aiding in the quick identification of any damaged lines due to faulty expansion module connections.
+  - Facilitates the external monitoring and testing of FPGA output signals, allowing for the rerouting of internal signals to this module for analysis with oscilloscopes or logic analyzers.
+- **Versatile Testing Capability**: Specially designed for a broad spectrum of electronic testing and debugging scenarios, enhancing both prototype development and troubleshooting efforts.
+
 
 ## Design Documentation
 
