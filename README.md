@@ -28,10 +28,6 @@ This repository is dedicated to the design and implementation of the Test Pads w
 ![Board Design - 2D](media/brd.png)
 *The 2D board design illustrates the placement of LEDs and test pads on the PCB, ensuring optimal accessibility for testing purposes.*
 
-### Board Design - 3D Visualization
-![Board Design - 3D Visualization](media/brd_3D.png)
-*A 3D visualization of the module, offering a comprehensive view of its design and how it can be integrated into existing projects.*
-
 ## Contributions and Feedback
 We welcome contributions and suggestions for improvements to this module. If you have developed enhancements or have ideas for additional features, please fork the repository, implement your changes, and submit a pull request. For any questions or issues, open an issue in the GitHub repository.
 
